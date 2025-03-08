@@ -1,0 +1,2 @@
+../Core/Src/switch_matrix.c:4:6:enable_cell_path	16	static
+../Core/Src/switch_matrix.c:70:6:switch_matrix_reset	8	static

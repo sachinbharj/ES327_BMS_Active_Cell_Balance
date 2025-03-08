@@ -1,0 +1,4 @@
+active_balancing.c:11:6:active_balance_trigger	1
+active_balancing.c:24:6:detect_imbalanced_cell	4
+active_balancing.c:55:6:balance_undercharged_cell	1
+active_balancing.c:73:6:balance_overcharged_cell	3

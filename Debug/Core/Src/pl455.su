@@ -1,0 +1,9 @@
+../Core/Src/pl455.c:26:6:powerDown	16	static
+../Core/Src/pl455.c:36:6:WakePL455	32	static
+../Core/Src/pl455.c:64:6:WriteReg	40	static
+../Core/Src/pl455.c:147:6:WriteFrame	64	static
+../Core/Src/pl455.c:200:5:ReadResp	16	static
+../Core/Src/pl455.c:213:6:getcellVoltages	40	static
+../Core/Src/pl455.c:265:10:CRC16	24	static
+../Core/Src/pl455.c:282:6:delayms	24	static
+../Core/Src/pl455.c:292:6:delayus	16	static

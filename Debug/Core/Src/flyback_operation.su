@@ -1,0 +1,4 @@
+../Core/Src/flyback_operation.c:13:6:flyback_1A_balance	32	static
+../Core/Src/flyback_operation.c:44:6:flyback_4A_balance	32	static
+../Core/Src/flyback_operation.c:75:7:read_balancing_current	16	static
+../Core/Src/flyback_operation.c:92:6:terminate_flyback	8	static

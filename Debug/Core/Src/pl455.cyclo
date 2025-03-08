@@ -1,0 +1,9 @@
+pl455.c:26:6:powerDown	1
+pl455.c:36:6:WakePL455	1
+pl455.c:64:6:WriteReg	9
+pl455.c:147:6:WriteFrame	13
+pl455.c:200:5:ReadResp	1
+pl455.c:213:6:getcellVoltages	2
+pl455.c:265:10:CRC16	2
+pl455.c:282:6:delayms	2
+pl455.c:292:6:delayus	2
